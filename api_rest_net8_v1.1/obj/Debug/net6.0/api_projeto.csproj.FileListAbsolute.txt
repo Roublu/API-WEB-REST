@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Projeto-20240411T194008Z-001\Projeto\api_projeto\obj\Debug\net6.0\api_projeto.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Projeto-20240411T194008Z-001\Projeto\api_projeto\obj\Debug\net6.0\api_projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Projeto-20240411T194008Z-001\Projeto\api_projeto\obj\Debug\net6.0\api_projeto.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Projeto-20240411T194008Z-001\Projeto\api_projeto\obj\Debug\net6.0\api_projeto.AssemblyInfo.cs
+C:\Users\PC\Documents\Projeto-20240411T194008Z-001\Projeto\api_projeto\obj\Debug\net6.0\api_projeto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projeto-20240411T194008Z-001\Projeto\api_projeto\obj\Debug\net6.0\api_projeto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Documents\Projeto-20240411T194008Z-001\Projeto\api_projeto\obj\Debug\net6.0\api_projeto.MvcApplicationPartsAssemblyInfo.cache
